@@ -1,3 +1,7 @@
+Fixed the Incorrect Latitude and longitude data, and some other small data issues
+
+----
+
 I just did some minor updates to this repository and added a PHP import script.
 
 # Australian Post Codes
